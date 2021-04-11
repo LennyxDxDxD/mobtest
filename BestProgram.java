@@ -1,3 +1,3 @@
-public class bestProgram{
+public class BestProgram{
     System.out.print("dfdfd");
 }
